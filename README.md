@@ -1,5 +1,5 @@
 # Web Site
-[Visit Site](https://araafdotcom.github.io/links-list)
+[Visit](https://araafdotcom.github.io/links-list)
 
 ## Overview
 <p> All my profile links in a single website. Made with basic HTML and CSS.</p>
